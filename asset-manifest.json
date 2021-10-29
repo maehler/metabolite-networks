@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/metabolite-networks/static/css/main.a617e044.chunk.css",
+    "main.js": "/metabolite-networks/static/js/main.dce66719.chunk.js",
+    "main.js.map": "/metabolite-networks/static/js/main.dce66719.chunk.js.map",
+    "runtime-main.js": "/metabolite-networks/static/js/runtime-main.ba7a1de7.js",
+    "runtime-main.js.map": "/metabolite-networks/static/js/runtime-main.ba7a1de7.js.map",
+    "static/js/2.f8706ca5.chunk.js": "/metabolite-networks/static/js/2.f8706ca5.chunk.js",
+    "static/js/2.f8706ca5.chunk.js.map": "/metabolite-networks/static/js/2.f8706ca5.chunk.js.map",
+    "static/js/3.e9c191f1.chunk.js": "/metabolite-networks/static/js/3.e9c191f1.chunk.js",
+    "static/js/3.e9c191f1.chunk.js.map": "/metabolite-networks/static/js/3.e9c191f1.chunk.js.map",
+    "index.html": "/metabolite-networks/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/metabolite-networks/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f8706ca5.chunk.js.LICENSE.txt": "/metabolite-networks/static/js/2.f8706ca5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/metabolite-networks/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba7a1de7.js",
+    "static/js/2.f8706ca5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dce66719.chunk.js"
+  ]
+}
